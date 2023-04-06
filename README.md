@@ -50,7 +50,7 @@ $ ./maze
 
 ```N``` - Turn on map visibility.
 
-# Directories
+## Directories
 
 [`src`](https://github.com/Ngoni19/The-Maze/tree/main/src) - All C source code found here.
 

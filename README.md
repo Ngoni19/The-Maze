@@ -58,9 +58,7 @@ $ ./maze
 
 [`mapping`](https://github.com/Ngoni19/The-Maze/tree/main/mapping)  - Contains map data files to be used by the program to output the map layout.
 
-[`images`]()
-
-Contains image files.
+[`images`]() - Contains image files.
 
 ### Sources
 * [SDL Wiki] (https://wiki.libsdl.org/)

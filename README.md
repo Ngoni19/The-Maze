@@ -69,7 +69,7 @@ Contains map data files to be used by the program to output the map layout.
 Contains image files.
 
 ### Sources
-1. * [SDL Wiki:] (https://wiki.libsdl.org/)
+1. * [SDL Wiki] (https://wiki.libsdl.org/)
 
 2. * [Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)
 

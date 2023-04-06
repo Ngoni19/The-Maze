@@ -69,15 +69,15 @@ Contains map data files to be used by the program to output the map layout.
 Contains image files.
 
 ### Sources
-1. [SDL Wiki:] (https://wiki.libsdl.org/)
+1. * [SDL Wiki:] (https://wiki.libsdl.org/)
 
-2. [Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)
+2. * [Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)
 
-3. [Game Development Envato Tuts+:] (https://gamedevelopment.tutsplus.com/categories/sdl)
+3. * [Game Development Envato Tuts+:] (https://gamedevelopment.tutsplus.com/categories/sdl)
 
-4. [GameFromScratch:] (https://www.gamefromscratch.com/tag/sdl/)
+4. * [GameFromScratch:] (https://www.gamefromscratch.com/tag/sdl/)
 
-5. [SDL Development Community:] (https://discourse.libsdl.org/)
+5. * [SDL Development Community:] (https://discourse.libsdl.org/)
 
 
 ### Authors

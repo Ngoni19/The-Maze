@@ -52,32 +52,26 @@ $ ./maze
 
 # Directories
 
-[`src`](https://github.com/Ngoni19/The-Maze/tree/main/src)
+[`src`](https://github.com/Ngoni19/The-Maze/tree/main/src) - All C source code found here.
 
-All C source code found here.
+[`header`](https://github.com/Ngoni19/The-Maze/tree/main/header)  - Contains all the C header files.
 
-[`header`](https://github.com/Ngoni19/The-Maze/tree/main/header)
-
-Contains all the C header files.
-
-[`mapping`](https://github.com/Ngoni19/The-Maze/tree/main/mapping)
-
-Contains map data files to be used by the program to output the map layout.
+[`mapping`](https://github.com/Ngoni19/The-Maze/tree/main/mapping)  - Contains map data files to be used by the program to output the map layout.
 
 [`images`]()
 
 Contains image files.
 
 ### Sources
-1. * [SDL Wiki] (https://wiki.libsdl.org/)
+* [SDL Wiki] (https://wiki.libsdl.org/)
 
-2. * [Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)
+* [Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)
 
-3. * [Game Development Envato Tuts+:] (https://gamedevelopment.tutsplus.com/categories/sdl)
+* [Game Development Envato Tuts+:] (https://gamedevelopment.tutsplus.com/categories/sdl)
 
-4. * [GameFromScratch:] (https://www.gamefromscratch.com/tag/sdl/)
+* [GameFromScratch:] (https://www.gamefromscratch.com/tag/sdl/)
 
-5. * [SDL Development Community:] (https://discourse.libsdl.org/)
+* [SDL Development Community:] (https://discourse.libsdl.org/)
 
 
 ### Authors

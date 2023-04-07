@@ -61,15 +61,15 @@ $ ./maze
 [`images`]() - Contains image files.
 
 ### Sources
-* [SDL Wiki] (https://wiki.libsdl.org*
+*[SDL Wiki] (https://wiki.libsdl.org*
 
-* [Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)*
+*[Lazy Foo' Productions:] (https://lazyfoo.net/tutorials/SDL/index.php)*
 
-* [Game Development Envato Tuts+:] (https://gamedevelopment.tutsplus.com/categories/sdl)*
+*[Game Development Envato Tuts+:] (https://gamedevelopment.tutsplus.com/categories/sdl)*
 
-* [GameFromScratch:] (https://www.gamefromscratch.com/tag/sdl/)*
+*[GameFromScratch:] (https://www.gamefromscratch.com/tag/sdl/)*
 
-* [SDL Development Community:] (https://discourse.libsdl.org/)*
+*[SDL Development Community:] (https://discourse.libsdl.org/)*
 
 ## Contributing
 
